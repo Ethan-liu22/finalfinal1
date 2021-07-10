@@ -501,4 +501,6 @@ tfoot {
 .the-logo {
   /*margin-left: 10rem;*/
   padding-left: 60px;
+  width="90px";
+  height="77px";
 }
