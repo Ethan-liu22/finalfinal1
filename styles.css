@@ -31,7 +31,11 @@
 
 #navbar-logo {
   background-size: 100%;
-  color: red;
+  background-image: linear-gradient(to left, silver, skyblue);
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  background-clip: text;
+  color: transparent;
   -moz-text-fill-color: transparent;
   display: flex;
   align-items: center;
