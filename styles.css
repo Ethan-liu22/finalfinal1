@@ -229,6 +229,13 @@
   margin-top: -15rem;
   font-size: 40px;
 }
+.main-link {
+  color: rgb(238, 209, 171);
+  position: absolute;
+  margin-top: -15rem;
+  margin-right: 5rem;
+  font-size: 40px;
+}
 
 .main-btn {
   margin-top: 15rem;
